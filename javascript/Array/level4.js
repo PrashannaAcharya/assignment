@@ -4,3 +4,18 @@
 const name= 'hari'
 const allUsers = ['hari','shyam','thakur']
 console.log(allUsers.includes(name))
+
+
+
+//q2
+
+const user="hari"
+const userArr=['hari','ram','shyam','thakur','hari']
+count=0;
+userArr.forEach(element=>{
+  if (element==user)
+  {
+    count++;
+  }
+})
+count
