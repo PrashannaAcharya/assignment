@@ -3,3 +3,4 @@
 //true
 const name= 'hari'
 const allUsers = ['hari','shyam','thakur']
+console.log(allUsers.includes(name))
