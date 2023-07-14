@@ -18,4 +18,3 @@ userArr.forEach(element=>{
     count++;
   }
 })
-count

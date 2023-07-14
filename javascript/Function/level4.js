@@ -30,7 +30,7 @@ const status2 ={
     status: 'success'
 }
 const checkIfSuccess=(checkStatus)=>{
-  if (checkStatus.status === "success")
+  if (checkStatus.status === "success")git
     return true
   else if(checkStatus.status === "onTheWay")
     return false;
